@@ -9,7 +9,7 @@
       "id": "did:web:opsecid.github.io:acapy-did-web-demo#key-01",
       "type": "Multikey",
       "controller": "did:web:opsecid.github.io:acapy-did-web-demo",
-      "publicKeyMultibase": "z6MksjP8kcym3Jj9MroF3DLWt5dCHD6HHiTW9AjUYzXH5s1U"
+      "publicKeyMultibase": "z6MkvXJbLmh4CXiF43MxPBtJBbTG73dRz8cYCMYhMx5yxGkr"
     }
   ],
   "assertionMethod": [
